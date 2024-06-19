@@ -1,0 +1,28 @@
+.signup-form{
+    max-width: 600px;
+    margin: 200px auto;
+}
+.error{
+    color: red;
+    margin-bottom: 0;
+}
+.login-form{
+    max-width: 600px;
+    margin: 200px auto;
+}
+.dashboard-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.search-container{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.ant-form-item-control-input-content{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+}
